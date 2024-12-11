@@ -1,2 +1,0 @@
-# Sozh
-Sozh
